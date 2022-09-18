@@ -6,7 +6,7 @@ https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif
 <h1 align="center">Hi 👋, I'm Anshita Vairalkar</h1>
 <h3 align="center">A Machine Learning Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 
 - 🔭 I’m currently working on **Credit Card Fraud Detection Model and House Price Prediction Model**
